@@ -19,11 +19,11 @@ DJ Pyle reads metadata tags from individual MP3 files (artist, album, year) and 
 
 *Note: These estimates vary based on bitrates and track lengths.*
 
-🤖 Example output
+## Example output
 
-```output
+🤖 LLM response
+
 Hey headbangers. I'm DJ Pyle on Pure Metal 1 O 1 .9 FM. Next track takes us back to the heart of thrash metal: it's the legendary 1986 release - Metallica's iconic masterpiece, Master of Puppets! Crank it up!
-```
 
 🎧 [Listen to an Example Introduction MP3](https://soundcloud.com/drahcirer/dj-pyle-intro?si=dcf41b01e17b49f29da22083427529ea&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
