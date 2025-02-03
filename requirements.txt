@@ -1,0 +1,8 @@
+python-dotenv
+pydub
+langchain
+langchain_huggingface
+elevenlabs
+mutagen
+huggingface
+rapidfuzz
