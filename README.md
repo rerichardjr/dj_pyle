@@ -116,7 +116,8 @@ python main.py /path/to/mp3/directory --tts
 
 - Add more CLI arguments for customization.  
 - Improve pronunciation correction for artist and album names.  
-- Support batch processing for multiple albums.  
+- Support batch processing for multiple albums.
+- Improve error handling.
 
 ---
 
