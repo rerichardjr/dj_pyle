@@ -1,5 +1,8 @@
 # DJ Pyle
-![DJ Pyle Logo](assets/images/dj_pyle_logo.png)
+
+<div align="center">
+  <img src="assets/images/dj_pyle_logo.png" alt="DJ Pyle Logo">
+</div>
 
 DJ Pyle is a Python application designed to combine individual MP3 tracks into a single full album MP3. This is specifically tailored for use with the Pyle PBMSPG1BK MP3 player, which lacks a navigation menu and relies solely on forward and back buttons. By merging tracks into one continuous album file, the app reduces the need for excessive button presses. Additionally, DJ Pyle generates an introduction MP3, providing album details to the listener before the music starts.
 
