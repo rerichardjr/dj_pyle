@@ -22,7 +22,7 @@ DJ Pyle reads metadata tags from individual MP3 files (artist, album, year) and 
 Hey headbangers. I'm DJ Pyle on Pure Metal 1 O 1 .9 FM. Next track takes us back to the heart of thrash metal: it's the legendary 1986 release - Metallica's iconic masterpiece, Master of Puppets! Crank it up!
 ```
 
-🎧 [Listen to an Example Introduction MP3](assets/audio/00%20DJ%20Pyle%20Intro.mp3)
+🎧 [Listen to an Example Introduction MP3](https://soundcloud.com/drahcirer/dj-pyle-intro?si=dcf41b01e17b49f29da22083427529ea&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 ## Setting Up the Environment
 
