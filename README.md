@@ -29,7 +29,9 @@ Hey headbangers. I'm DJ Pyle on Pure Metal 1 O 1 .9 FM. Next track takes us back
 
 ## Features
 - Basic pronunciation adjustment of words in LLM responses using exact or fuzzy matching.
-- Emoji removal in LLM response.  *The LLM prompt explicity states no emojis in response*
+- Emoji removal in LLM response.
+
+*Note: The LLM prompt explicity states no emojis in response.*
 
 ## Setting Up the Environment
 
