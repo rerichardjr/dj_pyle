@@ -27,6 +27,10 @@ Hey headbangers. I'm DJ Pyle on Pure Metal 1 O 1 .9 FM. Next track takes us back
 
 🎧 [Listen to an Example Introduction MP3](https://soundcloud.com/drahcirer/dj-pyle-intro?si=dcf41b01e17b49f29da22083427529ea&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
+## Features
+- Basic pronunciation adjustment of words in LLM responses using exact or fuzzy matching.
+- Emoji removal in LLM response.  *The LLM prompt explicity states no emojis in response*
+
 ## Setting Up the Environment
 
 ### 1. **Create a Virtual Environment:**
@@ -118,6 +122,7 @@ python main.py /path/to/mp3/directory --tts
 - Improve pronunciation correction for artist and album names.  
 - Support batch processing for multiple albums.
 - Improve error handling.
+- Album lookup using Musicbrainz when MP3s are not tagged. 
 
 ---
 
